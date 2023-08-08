@@ -1,6 +1,6 @@
 # Painting Program
 
-This is a simple painting program built with Java and the SimpleGraphics library. 
+This is a simple painting program built with Java and the Simple Graphics library that i built when i was studying at the Academia de Código.
 
 ## Features
 
