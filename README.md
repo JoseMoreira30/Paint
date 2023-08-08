@@ -34,7 +34,5 @@ This is a simple painting program built with Java and the Simple Graphics librar
 
 ## Next Steps
 
-Some ideas for next improvements:
-
 - Add ability to change color
 - Add ability to save/load images instead of text files
